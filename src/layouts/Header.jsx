@@ -1,6 +1,6 @@
-import searchIcon from "../../assets/search-engine.png";
-import Logo from "../components/ui/Logo";
-import NabBar from "../components/ui/NavBar";
+import searchIcon from "../assets/search-engine.png";
+import Logo from "../layouts/Logo";
+import NabBar from "../layouts/NavBar";
 
 const Header = () => (
   <header className="header">

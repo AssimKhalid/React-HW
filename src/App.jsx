@@ -1,10 +1,10 @@
-import './App.css'
-import Header from './components/ui/Header'
+import './App.css';
+import Home from "./page/Home.jsx";
 function App() {
 
   return (
     <>
-      <Header />
+      <Home />
     </>
   )
 }
